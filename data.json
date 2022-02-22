@@ -1,0 +1,17 @@
+[
+    {
+  "_id": { "$oid": "62153c31383abfc88dcb2390" },
+  "name": "Iphone",
+  "color": "black",
+  "description": "good",
+  "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1629842709000",
+  "price": 300
+},
+
+{"_id":{"$oid":"62155880b5a75494cec0ee33"},
+"name":"Samsung",
+"color":"blue",
+"description":"ok",
+"img":"https://www.businessinsider.in/photo/81411871/best-samsung-mobile-phones-in-india.jpg?imgsize=176930",
+"price":280
+}]
