@@ -1,17 +1,36 @@
 [
     {
-  "_id": { "$oid": "62153c31383abfc88dcb2390" },
-  "name": "Iphone",
-  "color": "black",
-  "description": "good",
+  "_id": 0,
+  "name": "Iphone 12 Pro",
+  "color": "blue",
+  "description": "Pricy but classy",
   "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1629842709000",
   "price": 300
 },
 
-{"_id":{"$oid":"62155880b5a75494cec0ee33"},
-"name":"Samsung",
-"color":"blue",
-"description":"ok",
+{"_id": 1,
+"name":"Galaxy Z Flip3 5G",
+"color":"black",
+"description":"Are flip phones gonna make a come back?",
 "img":"https://www.businessinsider.in/photo/81411871/best-samsung-mobile-phones-in-india.jpg?imgsize=176930",
 "price":280
-}]
+},
+
+{
+  "_id": 2,
+  "name": "Motorola Moto G100",
+  "color": "black",
+  "description": "No idea why the price is so high",
+  "img": "",
+  "price": 499
+},
+
+{
+  "_id": 3,
+  "name": "Nokia 3310",
+  "color": "blue",
+  "description": "Got the snake game and that what counts",
+  "img": "",
+  "price": 1500
+}
+]
