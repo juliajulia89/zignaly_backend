@@ -9,4 +9,4 @@ const phoneSchema = new Schema({
   image: { type: String },
 });
 
-module.exports = model("Phone", phoneSchema);
+module.exports = mongoose.model("Phone", phoneSchema);
