@@ -26,12 +26,3 @@ router.get("/phones/:phoneId", (req, res, next) => {
 
 module.exports = router;
 
-/*
-const router = require("express").Router();
-const phones = require("../data.json");
-
-router.get("/", (req, res) => {
-  res.status(200).json(phones);
-});
-
-module.exports = router;*/
